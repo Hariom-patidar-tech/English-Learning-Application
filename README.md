@@ -58,6 +58,9 @@ Backend (FastAPI)
 MySQL  Groq AI  gTTS
 Database  API   Audio Service
 ```
+## Image
+
+<img width="576" height="398" alt="image" src="https://github.com/user-attachments/assets/376d9172-6c9a-42f3-9b0d-5d653fea042e" />
 
 ---
 
