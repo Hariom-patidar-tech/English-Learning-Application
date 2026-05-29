@@ -1,8 +1,8 @@
-# 📘 English Learning App
+#  English Learning App
 
 An AI-powered English Learning Platform designed to enhance English communication skills through interactive quizzes, AI-generated questions, pronunciation support, and real-time chat functionality.
 
-## 🚀 Overview
+##  Overview
 
 The English Learning App helps learners improve their vocabulary, grammar, listening, and communication skills using modern AI technologies. The platform combines adaptive quizzes, text-to-speech, and live interaction features to create an engaging learning experience.
 
@@ -10,7 +10,7 @@ The English Learning App helps learners improve their vocabulary, grammar, liste
 
 ## ✨ Key Features
 
-### 🎯 Interactive Quiz System
+###  Interactive Quiz System
 
 * Topic-based English quizzes
 * Dynamic question generation
@@ -127,8 +127,8 @@ English-Learning-App/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/english-learning-app.git
-cd english-learning-app
+git clone https://github.com/Hariom-patidar-tech/english-learning-application.git
+cd english-learning-application
 ```
 
 ### 2. Create Virtual Environment
