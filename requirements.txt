@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose
+pydantic
+pydantic-settings
+python-multipart
+openpyxl
+requests  
+python-dotenv  
+gTTS
+groq
+streamlit
