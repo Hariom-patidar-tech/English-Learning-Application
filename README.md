@@ -62,6 +62,9 @@ Database  API   Audio Service
 
 <img width="576" height="398" alt="image" src="https://github.com/user-attachments/assets/376d9172-6c9a-42f3-9b0d-5d653fea042e" />
 
+
+<img width="589" height="376" alt="image" src="https://github.com/user-attachments/assets/bfbbe6e6-27ad-4d57-95bd-6070b4b71b57" />
+
 ---
 
 ## 🛠️ Technology Stack
